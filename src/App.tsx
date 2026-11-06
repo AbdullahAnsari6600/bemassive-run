@@ -547,7 +547,7 @@ export default function App() {
     <img
       src="/bemassive-run-club-logo.png"
       alt="Bemassive Run Club"
-      className="h-auto w-full max-w-[125px] max-h-11
+      className="h-auto w-full max-w-[175px] max-h-11
         object-contain
         sm:max-w-[200px] sm:max-h-20
         md:max-h-24"
